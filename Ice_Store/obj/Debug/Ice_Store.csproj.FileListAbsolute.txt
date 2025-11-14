@@ -1,0 +1,151 @@
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe.config
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\bin\Debug\Ice_Store.pdb
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.AssemblyReference.cache
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FLogin.resources
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Properties.Resources.resources
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.GenerateResource.cache
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.CoreCompileInputs.cache
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\obj\Debug\Ice_Store.exe
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\obj\Debug\Ice_Store.pdb
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Form1.resources
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe.config
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\bin\Debug\Ice_Store.pdb
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.AssemblyReference.cache
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FLogin.resources
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Form1.resources
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Properties.Resources.resources
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.GenerateResource.cache
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.CoreCompileInputs.cache
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\obj\Debug\Ice_Store.exe
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\obj\Debug\Ice_Store.pdb
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FMusteri.resources
+C:\Users\nevu\Desktop\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe.config
+C:\Users\nevu\Desktop\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe
+C:\Users\nevu\Desktop\Ice_Store\Ice_Store\bin\Debug\Ice_Store.pdb
+C:\Users\nevu\Desktop\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.AssemblyReference.cache
+C:\Users\nevu\Desktop\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FLogin.resources
+C:\Users\nevu\Desktop\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FMusteri.resources
+C:\Users\nevu\Desktop\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Form1.resources
+C:\Users\nevu\Desktop\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Properties.Resources.resources
+C:\Users\nevu\Desktop\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.GenerateResource.cache
+C:\Users\nevu\Desktop\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.CoreCompileInputs.cache
+C:\Users\nevu\Desktop\Ice_Store\Ice_Store\obj\Debug\Ice_Store.exe
+C:\Users\nevu\Desktop\Ice_Store\Ice_Store\obj\Debug\Ice_Store.pdb
+C:\Users\nevu\Desktop\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FMusteriAra.resources
+C:\Users\ZAFER\Desktop\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe.config
+C:\Users\ZAFER\Desktop\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe
+C:\Users\ZAFER\Desktop\Ice_Store\Ice_Store\bin\Debug\Ice_Store.pdb
+C:\Users\ZAFER\Desktop\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.AssemblyReference.cache
+C:\Users\ZAFER\Desktop\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FLogin.resources
+C:\Users\ZAFER\Desktop\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FMusteri.resources
+C:\Users\ZAFER\Desktop\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FMusteriAra.resources
+C:\Users\ZAFER\Desktop\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Form1.resources
+C:\Users\ZAFER\Desktop\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Properties.Resources.resources
+C:\Users\ZAFER\Desktop\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.GenerateResource.cache
+C:\Users\ZAFER\Desktop\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\Desktop\Ice_Store\Ice_Store\obj\Debug\Ice_Store.exe
+C:\Users\ZAFER\Desktop\Ice_Store\Ice_Store\obj\Debug\Ice_Store.pdb
+C:\Users\enees\OneDrive\Masaüstü\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.AssemblyReference.cache
+C:\Users\enees\OneDrive\Masaüstü\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.exe
+C:\Users\enees\OneDrive\Masaüstü\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.pdb
+C:\Users\enees\OneDrive\Masaüstü\kodlar\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.AssemblyReference.cache
+C:\Users\enees\OneDrive\Masaüstü\kodlar\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.exe
+C:\Users\enees\OneDrive\Masaüstü\kodlar\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.pdb
+C:\Users\ahmet\Desktop\x\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe.config
+C:\Users\ahmet\Desktop\x\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe
+C:\Users\ahmet\Desktop\x\Ice_Store\Ice_Store\bin\Debug\Ice_Store.pdb
+C:\Users\ahmet\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FLogin.resources
+C:\Users\ahmet\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FMusteri.resources
+C:\Users\ahmet\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FMusteriAra.resources
+C:\Users\ahmet\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Form1.resources
+C:\Users\ahmet\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Properties.Resources.resources
+C:\Users\ahmet\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.exe
+C:\Users\ahmet\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.pdb
+C:\Users\nevu\Desktop\x\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe.config
+C:\Users\nevu\Desktop\x\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe
+C:\Users\nevu\Desktop\x\Ice_Store\Ice_Store\bin\Debug\Ice_Store.pdb
+C:\Users\nevu\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.AssemblyReference.cache
+C:\Users\nevu\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FLogin.resources
+C:\Users\nevu\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FMusteri.resources
+C:\Users\nevu\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FMusteriAra.resources
+C:\Users\nevu\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Form1.resources
+C:\Users\nevu\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Properties.Resources.resources
+C:\Users\nevu\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.GenerateResource.cache
+C:\Users\nevu\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.CoreCompileInputs.cache
+C:\Users\nevu\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.exe
+C:\Users\nevu\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.pdb
+C:\Users\nevu\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FPersonel.resources
+C:\Users\nevu\Desktop\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FPersonelAra.resources
+D:\24-25 güz orçun\görsel 2\x\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe.config
+D:\24-25 güz orçun\görsel 2\x\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe
+D:\24-25 güz orçun\görsel 2\x\Ice_Store\Ice_Store\bin\Debug\Ice_Store.pdb
+D:\24-25 güz orçun\görsel 2\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.AssemblyReference.cache
+D:\24-25 güz orçun\görsel 2\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FDepoIslemleri.resources
+D:\24-25 güz orçun\görsel 2\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FLogin.resources
+D:\24-25 güz orçun\görsel 2\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FMusteri.resources
+D:\24-25 güz orçun\görsel 2\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FMusteriAra.resources
+D:\24-25 güz orçun\görsel 2\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Form1.resources
+D:\24-25 güz orçun\görsel 2\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FPersonel.resources
+D:\24-25 güz orçun\görsel 2\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FPersonelAra.resources
+D:\24-25 güz orçun\görsel 2\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Properties.Resources.resources
+D:\24-25 güz orçun\görsel 2\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.GenerateResource.cache
+D:\24-25 güz orçun\görsel 2\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.CoreCompileInputs.cache
+D:\24-25 güz orçun\görsel 2\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.exe
+D:\24-25 güz orçun\görsel 2\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.pdb
+D:\24-25 güz orçun\görsel 2\x 26.11.24\x\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe.config
+D:\24-25 güz orçun\görsel 2\x 26.11.24\x\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe
+D:\24-25 güz orçun\görsel 2\x 26.11.24\x\Ice_Store\Ice_Store\bin\Debug\Ice_Store.pdb
+D:\24-25 güz orçun\görsel 2\x 26.11.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.AssemblyReference.cache
+D:\24-25 güz orçun\görsel 2\x 26.11.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FDepoIslemleri.resources
+D:\24-25 güz orçun\görsel 2\x 26.11.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FLogin.resources
+D:\24-25 güz orçun\görsel 2\x 26.11.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FMusteri.resources
+D:\24-25 güz orçun\görsel 2\x 26.11.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FMusteriAra.resources
+D:\24-25 güz orçun\görsel 2\x 26.11.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Form1.resources
+D:\24-25 güz orçun\görsel 2\x 26.11.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FPersonel.resources
+D:\24-25 güz orçun\görsel 2\x 26.11.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FPersonelAra.resources
+D:\24-25 güz orçun\görsel 2\x 26.11.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Properties.Resources.resources
+D:\24-25 güz orçun\görsel 2\x 26.11.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.GenerateResource.cache
+D:\24-25 güz orçun\görsel 2\x 26.11.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.CoreCompileInputs.cache
+D:\24-25 güz orçun\görsel 2\x 26.11.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.exe
+D:\24-25 güz orçun\görsel 2\x 26.11.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.pdb
+D:\24-25 güz orçun\görsel 2\x 03.12.24\x\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe.config
+D:\24-25 güz orçun\görsel 2\x 03.12.24\x\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe
+D:\24-25 güz orçun\görsel 2\x 03.12.24\x\Ice_Store\Ice_Store\bin\Debug\Ice_Store.pdb
+D:\24-25 güz orçun\görsel 2\x 03.12.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.AssemblyReference.cache
+D:\24-25 güz orçun\görsel 2\x 03.12.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FDepoIslemleri.resources
+D:\24-25 güz orçun\görsel 2\x 03.12.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FLogin.resources
+D:\24-25 güz orçun\görsel 2\x 03.12.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FMusteri.resources
+D:\24-25 güz orçun\görsel 2\x 03.12.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FMusteriAra.resources
+D:\24-25 güz orçun\görsel 2\x 03.12.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Form1.resources
+D:\24-25 güz orçun\görsel 2\x 03.12.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FPersonel.resources
+D:\24-25 güz orçun\görsel 2\x 03.12.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FPersonelAra.resources
+D:\24-25 güz orçun\görsel 2\x 03.12.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Properties.Resources.resources
+D:\24-25 güz orçun\görsel 2\x 03.12.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.GenerateResource.cache
+D:\24-25 güz orçun\görsel 2\x 03.12.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.CoreCompileInputs.cache
+D:\24-25 güz orçun\görsel 2\x 03.12.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.exe
+D:\24-25 güz orçun\görsel 2\x 03.12.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.pdb
+D:\24-25 güz orçun\görsel 2\x 03.12.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FDepoIslemleriAra.resources
+D:\24-25 güz orçun\görsel 2\x 03.12.24\x\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FLocaHareketRapor.resources
+C:\ZAFER\Okulda İşleneceker\C#\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe.config
+C:\ZAFER\Okulda İşleneceker\C#\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe
+C:\ZAFER\Okulda İşleneceker\C#\Ice_Store\Ice_Store\bin\Debug\Ice_Store.pdb
+C:\ZAFER\Okulda İşleneceker\C#\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.AssemblyReference.cache
+C:\ZAFER\Okulda İşleneceker\C#\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FDepoIslemleri.resources
+C:\ZAFER\Okulda İşleneceker\C#\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FDepoIslemleriAra.resources
+C:\ZAFER\Okulda İşleneceker\C#\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FLocaHareketRapor.resources
+C:\ZAFER\Okulda İşleneceker\C#\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FLogin.resources
+C:\ZAFER\Okulda İşleneceker\C#\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FMusteri.resources
+C:\ZAFER\Okulda İşleneceker\C#\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FMusteriAra.resources
+C:\ZAFER\Okulda İşleneceker\C#\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Form1.resources
+C:\ZAFER\Okulda İşleneceker\C#\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FPersonel.resources
+C:\ZAFER\Okulda İşleneceker\C#\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FPersonelAra.resources
+C:\ZAFER\Okulda İşleneceker\C#\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Properties.Resources.resources
+C:\ZAFER\Okulda İşleneceker\C#\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.GenerateResource.cache
+C:\ZAFER\Okulda İşleneceker\C#\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.CoreCompileInputs.cache
+C:\ZAFER\Okulda İşleneceker\C#\Ice_Store\Ice_Store\obj\Debug\Ice_Store.exe
+C:\ZAFER\Okulda İşleneceker\C#\Ice_Store\Ice_Store\obj\Debug\Ice_Store.pdb

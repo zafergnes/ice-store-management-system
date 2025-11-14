@@ -1,0 +1,24 @@
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe.config
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\bin\Debug\Ice_Store.pdb
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.AssemblyReference.cache
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FLogin.resources
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Properties.Resources.resources
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.GenerateResource.cache
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.CoreCompileInputs.cache
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\obj\Debug\Ice_Store.exe
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\obj\Debug\Ice_Store.pdb
+D:\24-25 güz orçun\görsel 2\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Form1.resources
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe.config
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\bin\Debug\Ice_Store.exe
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\bin\Debug\Ice_Store.pdb
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.AssemblyReference.cache
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FLogin.resources
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Form1.resources
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\obj\Debug\Ice_Store.Properties.Resources.resources
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.GenerateResource.cache
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\obj\Debug\Ice_Store.csproj.CoreCompileInputs.cache
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\obj\Debug\Ice_Store.exe
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\obj\Debug\Ice_Store.pdb
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FMusteri.resources
+C:\ZAFER\Okulda İşleneceker\C#\ice_Store\Ice_Store\Ice_Store\obj\Debug\Ice_Store.FMusteriAra.resources
